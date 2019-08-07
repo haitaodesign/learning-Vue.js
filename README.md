@@ -7,7 +7,8 @@
 1. [Vue.js 官网](https://cn.vuejs.org/)
 2. [Vue.js 源码解析](https://github.com/answershuto/learnVue)
 3. [Vue 技术揭秘](https://ustbhuangyi.github.io/vue-analysis)
-4. 《深入浅出 Vue.js》
+4. [vue-design](https://github.com/HcySunYang/vue-design)
+5. 《深入浅出 Vue.js》
 
 ## Vue.js 基础
 
